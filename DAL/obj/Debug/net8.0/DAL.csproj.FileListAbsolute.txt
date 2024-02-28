@@ -1,0 +1,16 @@
+D:\Proyectos\PrograWeb202401\Northwind\DAL\bin\Debug\net8.0\DAL.deps.json
+D:\Proyectos\PrograWeb202401\Northwind\DAL\bin\Debug\net8.0\DAL.dll
+D:\Proyectos\PrograWeb202401\Northwind\DAL\bin\Debug\net8.0\DAL.pdb
+D:\Proyectos\PrograWeb202401\Northwind\DAL\bin\Debug\net8.0\Entities.dll
+D:\Proyectos\PrograWeb202401\Northwind\DAL\bin\Debug\net8.0\Entities.pdb
+D:\Proyectos\PrograWeb202401\Northwind\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+D:\Proyectos\PrograWeb202401\Northwind\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\PrograWeb202401\Northwind\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+D:\Proyectos\PrograWeb202401\Northwind\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+D:\Proyectos\PrograWeb202401\Northwind\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+D:\Proyectos\PrograWeb202401\Northwind\DAL\obj\Debug\net8.0\DAL.sourcelink.json
+D:\Proyectos\PrograWeb202401\Northwind\DAL\obj\Debug\net8.0\DAL.csproj.Up2Date
+D:\Proyectos\PrograWeb202401\Northwind\DAL\obj\Debug\net8.0\DAL.dll
+D:\Proyectos\PrograWeb202401\Northwind\DAL\obj\Debug\net8.0\refint\DAL.dll
+D:\Proyectos\PrograWeb202401\Northwind\DAL\obj\Debug\net8.0\DAL.pdb
+D:\Proyectos\PrograWeb202401\Northwind\DAL\obj\Debug\net8.0\ref\DAL.dll
